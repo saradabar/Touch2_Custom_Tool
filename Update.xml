@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>10</versionCode>
-  <versionName>1.2.4</versionName>
+  <versionCode>11</versionCode>
+  <versionName>1.2.5</versionName>
   <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release_1.2.4.apk</url>
   <description>＊ユーザビリティの向上を行いました。＊起動時にアプリのアップデートチェックをするように変更しました。＊起動時にアプリのサポートチェックをするように変更しました。この為、インターネットに接続されていないとアプリを使用することはできません。＊軽微な不具合の修正を行いました。</description>
 </update>
