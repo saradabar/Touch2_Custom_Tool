@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>13</versionCode>
-  <versionName>1.2.5</versionName>
-  <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release_1.2.0.apk</url>
-  <description></description>
+  <versionCode>6</versionCode>
+  <versionName>1.2.1</versionName>
+  <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release1.2.1.apk</url>
+  <description><![CDATA[
+    test
+  ]]></description>
 </update>
