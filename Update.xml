@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>15</versionCode>
-  <versionName>1.3.3</versionName>
+  <versionCode>16</versionCode>
+  <versionName>1.3.4</versionName>
   <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release_1.3.3.apk</url>
-  <description>チャレンジパッドNEOに対応しました。軽微な調整を行いました。注意：Ver.1.3.1以上のバージョンでない場合、このアプリからは更新を行えません。https://ux.getuploader.com/saradabar_wikiwiki/download/19より更新してください。</description>
+  <description>重要な設定項目において設定変更するときに確認ダイアログを表示させるようにしました。ホームランチャーとして設定できるようにしました。（初期改造時の使用を想定）軽微な調整を行いました。注意：Ver.1.3.1以上のバージョンでない場合、またはチャレンジパッドNEOを使用している場合、このアプリからは更新を行えません。https://ux.getuploader.com/saradabar_wikiwiki/download/21より更新してください。チャレンジパッドNEOを使用している場合ADBでインストールしてください。</description>
 </update>
