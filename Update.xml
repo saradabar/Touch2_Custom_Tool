@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>18</versionCode>
-  <versionName>1.3.6</versionName>
-  <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release_1.3.6.apk</url>
-  <description>様々な改善をしました。</description>
+  <versionCode>19</versionCode>
+  <versionName>1.3.7</versionName>
+  <url>https://github.com/saradabar/Touch2_Custom_Tool/raw/master/app-release_1.3.7.apk</url>
+  <description>動作の改善や様々な修正を行いました。</description>
 </update>
